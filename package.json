@@ -1,0 +1,24 @@
+{
+  "name": "api_awake",
+  "version": "1.0.0",
+  "description": "API para aplicativo de eventos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "programador mobile",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "3.0.6",
+    "body-parser": "1.15.2",
+    "express": "4.16.4",
+    "fs": "0.0.1-security",
+    "moment": "2.24.0",
+    "mongodb": "3.2.6",
+    "mongoose": "5.5.10",
+    "multer": "1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.0"
+  }
+}
