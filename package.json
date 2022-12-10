@@ -11,7 +11,7 @@
   "dependencies": {
     "bcrypt": "3.0.6",
     "body-parser": "1.15.2",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "fs": "0.0.1-security",
     "moment": "2.24.0",
     "mongodb": "3.2.6",
